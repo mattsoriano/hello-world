@@ -6,8 +6,8 @@ GitHub practice
 This is an ordered list
 1. First item
 2. Second item
-  - sub
-  - sub
+    - sub
+    - sub
 3. Third item  
   
 Unordered list
