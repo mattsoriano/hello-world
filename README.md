@@ -6,19 +6,16 @@ GitHub practice
 
 &nbsp;  
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 This is an ordered list
 1. First item
 2. Second item
     - sub
     - sub
 3. Third item  
-  
+&nbsp;  
+
+&nbsp;  
+
 Unordered list
 - item
 - item
