@@ -6,7 +6,7 @@ GitHub practice
 
 &nbsp;  
 
-This is an ordered list
+### This is an *ordered* list
 1. First item
 2. Second item
     - sub
@@ -16,7 +16,7 @@ This is an ordered list
 
 &nbsp;  
 
-Unordered list
+### **Unordered** list
 - item
 - item
   - sub 
